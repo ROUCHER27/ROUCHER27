@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ROUCHER27
-- 👀 I’m interested in pyton and matlab
+- 👋 Hi, I’m @ROUCHER27 「Yirong Yu」
+- 👀 I’m interested in AI Agent Infra and 
 - 🌱 I’m currently learning financial mathematics
-- 💞️ I’m looking to collaborate on python, Java, matlab, C++
-- 📫 How to reach me yirong.yu22@student.xjtlu.edu.cn
-- 😄 Pronouns: Chinese ⚡ 
+- 💞️ I’m COOKING a canvas platform for Agents with Codex and Claude Code
+- 📫 How to reach me yirongyu77@gmail.com
+ 
 
 <!---
 ROUCHER27/ROUCHER27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
