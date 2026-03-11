@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ROUCHER27 「Yirong Yu」
-- 👀 I’m interested in AI Agent Infra and 
+- 👀 I’m interested in AI Agent Infra and all new products
 - 🌱 I’m currently learning financial mathematics
 - 💞️ I’m COOKING a canvas platform for Agents with Codex and Claude Code
 - 📫 How to reach me yirongyu77@gmail.com
